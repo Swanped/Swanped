@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Swanped
+- 👀 I’m interested in learning, sharing, interacting and developing skills;
+- 🌱 I’m currently learning Apex, Java, C#, HTML5, CSS;
+- 💞️ I’m looking to collaborate on knowledge, sharing, doubts and solutions;
+- 📫 How to reach me {https://www.linkedin.com/in/thiagosenatas/, https://trailblazer.me/id/swanped};
